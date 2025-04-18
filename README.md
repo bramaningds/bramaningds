@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Bram 👋
 
 🚀 I'm a passionate **full-stack developer** and **solo founder** who loves building real-world products that solve real-world problems. I specialize in:
 
@@ -12,9 +12,9 @@
 ## 🛠️ What I'm working on
 
 I'm currently maintaining and growing three SaaS products:
-1. **iuran.id** – A community contribution tracker
-2. **keuangan.atbram.com** – A personal finance app (now on Google Play)
-3. **rental system** – For managing item or property rentals
+1. **iuran** – A community contribution tracker (now on Google Play)
+2. **kas** – A finance app for community (now on Google Play)
+3. **rental system** – For managing item or property rentals (on progress)
 
 All built with **modular architecture**, **multi-tenant support**, and scalable codebases. I'm also experimenting with **AI + RAG** systems using ChromaDB, LangChain, and OpenAI.
 
@@ -22,10 +22,11 @@ All built with **modular architecture**, **multi-tenant support**, and scalable 
 
 ## 🌍 I Love Building
 
+- 🌐 Data processing (text pre-processing)
 - 🧠 Intelligent apps (chatbot, NLP, semantic search)
 - 📱 Mobile apps with delightful UX
 - 🧩 Microservices & clean backend architecture
-- 🔐 Authentication & authorization systems
+- 🔐 Authentication & authorization systems with OAUTH
 
 ---
 
@@ -39,10 +40,10 @@ All built with **modular architecture**, **multi-tenant support**, and scalable 
 
 ## 📫 Let's Connect!
 
-- 🌐 Website: [yourwebsite.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)
-- 🐦 Twitter: [@yourhandle](#)
-- ✉️ Email: [youremail@example.com]
+- 🌐 Website: [atbram.com]
+- 💼 LinkedIn: [linkedin.com/in/bramaningds](#)
+- 🐦 Twitter: [@bramaningds](#)
+- ✉️ Email: [bramaningds@hotmail.com]
 
 ---
 
